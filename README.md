@@ -17,13 +17,8 @@
 ---
 
 ##  Profile
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/473c6e52-8f8e-4523-b466-5e355c7c0337" width="800" alt="Moawiz GitHub Profile Screenshot" />
-</p>
 
----
-
-## 🧠 Problem Solving Progress
+### 🧠 Problem Solving Progress
 -  Solved **almost 60 DSA problems on LeetCode**
 -  Solved **20 Code Basics problems**
 -  Consistently practicing to improve logic and coding speed
