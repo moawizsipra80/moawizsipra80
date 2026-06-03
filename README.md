@@ -60,14 +60,12 @@
 
 ---
 
-##  GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 ---
 
 ## Let’s Connect
