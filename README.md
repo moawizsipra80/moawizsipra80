@@ -1,9 +1,9 @@
 <h1 align="center">Hi  I'm Muhammad Moawiz Sipra</h1>
-<h3 align="center">Software Developer • Tech Architect • Building AI Automation Systems</h3>
+<h3 align="center"> Developer| Building AI Automation Systems| PUCIT Data Science </h3>
 
 <p align="center">
   <a href="https://github.com/moawizsipra80">GitHub</a> •
-  <a href="[linkedin.com/in/muhammad-moawiz-sipra-a12342222](https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/)">LinkedIn</a> •
+  <a href="linkedin.com/in/muhammad-moawiz-sipra-a12342222](https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/">LinkedIn</a> •
   <a href="https://moawiz-sipra-portfolio.vercel.app/">Portfolio Website</a>
 </p>
 
