@@ -3,29 +3,25 @@
 
 <p align="center">
   <a href="https://github.com/moawizsipra80">GitHub</a> •
-  <a href="linkedin.com/in/muhammad-moawiz-sipra-a12342222](https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/">LinkedIn</a> •
   <a href="https://moawiz-sipra-portfolio.vercel.app/">Portfolio Website</a>
 </p>
 
 ---
 
 ##  About Me
-I’m a Fullstack developer and AI automation expert focused on building technical foundations for modern startups and businesses.
+I’m a Fullstack developer and AI automation expert focused on building technical foundations for modern startups and businesses.I work on early stage products and production MVPs where **speed, reliability, and scalability** matter from day one. I enjoy designing systems that stay maintainable under growth, automating repetitive workflows, and solving operational problems through clean software architecture.
 
-I work on early stage products and production MVPs where **speed, reliability, and scalability** matter from day one.  
-I enjoy designing systems that stay maintainable under growth, automating repetitive workflows, and solving operational problems through clean software architecture.
 
----
 
 ## Profile Snapshot
 <p align="center">
   <img src="https://github.com/user-attachments/assets/473c6e52-8f8e-4523-b466-5e355c7c0337" width="900" alt="GitHub profile screenshot" />
 </p>
 
----
 
 ##  Core Expertise
-- Full-Stack Product Development  
+- Full Stack Product Development  
 - Backend Architecture & APIs  
 - Production MVP Engineering  
 - Automation & Internal Tooling  
@@ -59,9 +55,9 @@ I enjoy designing systems that stay maintainable under growth, automating repeti
 ---
 
 ##  Technologies
-**Frontend:** Svelte / SvelteKit, Next.js, React, Tailwind CSS  
+**Frontend:** HTML,CSS ,Svelte, Next.js, React, Tailwind CSS  
 **Backend:** Django, Node.js, Express.js, PostgreSQL  
-**Automation & Infra:** Docker, Selenium, PyTest, n8n, BullMQ  
+**Automation & Infra:** Selenium, PyTest, n8n, BullMQ  
 
 ---
 
@@ -76,8 +72,8 @@ I enjoy designing systems that stay maintainable under growth, automating repeti
 
 ##  Contact
 - **Email:** msubhanmalik20@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/msubhanmalik/  
-- **Website:** https://msubhan.dev  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/  
+- **Website:** https://moawiz-sipra-portfolio.vercel.app/  
 
 **Available for:** SaaS Development, Architectural Consulting, and MVP Builds.
 
