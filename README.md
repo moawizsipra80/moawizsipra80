@@ -10,9 +10,9 @@
 ---
 
 ##  About Me
-I’m a software developer and tech architect focused on building technical foundations for modern startups and businesses.
+I’m a Fullstack developer and AI automation expert focused on building technical foundations for modern startups and businesses.
 
-I work on early-stage products and production MVPs where **speed, reliability, and scalability** matter from day one.  
+I work on early stage products and production MVPs where **speed, reliability, and scalability** matter from day one.  
 I enjoy designing systems that stay maintainable under growth, automating repetitive workflows, and solving operational problems through clean software architecture.
 
 ---
