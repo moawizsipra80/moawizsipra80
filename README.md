@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 -  Data Science student at **PUCIT**
 -  Passionate about **AI Automation**, **Data Science**, and **Software Development**
 -  Building practical projects in Python, web development, and business automation
