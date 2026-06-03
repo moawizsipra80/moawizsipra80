@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/moawizsipra80">GitHub</a> •
-  <a href="https://linkedin.com/in/msubhanmalik/">LinkedIn</a> •
-  <a href="https://msubhan.dev">Website</a>
+  <a href="linkedin.com/in/muhammad-moawiz-sipra-a12342222">LinkedIn</a> •
+  <a href="https://moawiz-sipra-portfolio.vercel.app/">Portfolio Website</a>
 </p>
 
 ---
