@@ -65,8 +65,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/moawizsipra80?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/moawizsipra80?style=for-the-badge&color=blue" />
 </p>
 ---
 
