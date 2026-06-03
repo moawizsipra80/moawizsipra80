@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Moawiz Sipra</h1>
+<h1 align="center">Hi , I'm Muhammad Moawiz Sipra</h1>
 <h3 align="center">Developer | Building AI Automation Systems | PUCIT Data Science Student</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ##  Profile
 
-### 🧠 Problem Solving Progress
+###  Problem Solving Progress
 -  Solved **almost 60 DSA problems on LeetCode**
 -  Solved **20 Code Basics problems**
 -  Consistently practicing to improve logic and coding speed
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python, TypeScript, JavaScript, HTML, CSS, C++, Kotlin  
 - **Focus Areas:** AI Automation, Data Science, Web Development, Business Software
 
@@ -63,8 +63,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/moawizsipra80">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=moawizsipra80&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" />
+  </a>
+  <a href="https://github.com/moawizsipra80">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moawizsipra80&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=2" />
+  </a>
 </p>
 ---
 
