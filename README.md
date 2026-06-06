@@ -71,7 +71,7 @@ I’m a Fullstack developer and AI automation expert focused on building technic
 ---
 
 ##  Contact
-- **Email:** msubhanmalik20@gmail.com  
+- **Email:** mmoawizsipra@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-moawiz-sipra-a12342222/  
 - **Website:** https://moawiz-sipra-portfolio.vercel.app/  
 
