@@ -10,7 +10,7 @@
 ---
 
 ##  About Me
-I’m a Fullstack developer and AI automation expert focused on building technical foundations for modern startups and businesses.I work on early stage products and production MVPs where **speed, reliability, and scalability** matter from day one. I enjoy designing systems that stay maintainable under growth, automating repetitive workflows, and solving operational problems through clean software architecture.
+I built and launched my first product at 19 and have since focused on developing full-stack applications using the MERN stack and Python. My work includes building scalable web applications, backend systems, and AI-powered automation solutions that address real world challenges. Alongside development, I actively explore machine learning, data science, Research about AI and emerging technologies while pursuing a degree in Data Science at Punjab University College of Information Technology (PUCIT) (Class of 2028). I am committed to continuously expanding my technical expertise through hands on projects, research, and practical problem-solving.
 
 
 
